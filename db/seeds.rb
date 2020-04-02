@@ -11,6 +11,7 @@ mj = Artist.create(:name=>'Michael Jackson')
 rap = Genre.create(:name=>'Rap')
 pop = Genre.create(:name=>'Pop')
 
+
 hotline_bling.artist = drake
 thriller.artist = mj
 
